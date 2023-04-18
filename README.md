@@ -1,6 +1,6 @@
 # Hi, I’m Carlos Martins.
 
-- 🔭 I’m currently working with **NodeJS**, **ReactJS** and **React-native**.
+- 🔭 I’m currently working with **NodeJS**, **ReactJS** and **React Native**.
 
 - 🌱 I’m currently learning **Game Development**.
 
