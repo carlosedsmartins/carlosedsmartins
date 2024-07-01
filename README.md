@@ -5,8 +5,11 @@ A software developer passionate about turning ideas into digital reality. With 2
 My tech stack:
 
 💻 Front-end: Angular, React, React Native
+
 ⚙️ Back-end: Python, Node.js
+
 🛠️ Tools: Docker, Git
+
 🌱 Currently exploring the world of Android development.
 
 Let's build something amazing together!
