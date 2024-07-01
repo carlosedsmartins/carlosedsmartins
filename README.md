@@ -12,6 +12,4 @@ My tech stack:
 
 🌱 Currently exploring the world of Android development.
 
-Let's build something amazing together!
-
-👉 Reach out to me at carlosedsm.276@gmail.com
+Reach out to me at carlosedsm.276@gmail.com
